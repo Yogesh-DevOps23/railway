@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
             </style>
           </head>
           <body>
-            <h1>DHANG SE CONFIGURATION DAL NA BE</h1>
+            <h1>Halve Phir Mysql Creds Check kr, Glt dale h</h1>
             <p class="error-details">${err.message}</p>
           </body>
         </html>
