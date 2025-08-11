@@ -11,10 +11,10 @@ const PORT = 3000;
 
 // MySQL connection config
 const dbConfig = {
-  host: 'localhost',
-  user: 'test1',
-  password: 'Test1@321',
-  database: 'test1'
+  host: 'mysql.railway.internal',
+  user: 'root',
+  password: 'GMyPkjdcBwEnJKLfwAgGAwbVFjhtebQo',
+  database: 'railway'
 };
 
 
